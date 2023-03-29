@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I'm Thomas, a Software Developer based in Karlsruhe
 
+- 🧠  I'm studying computer science at the KIT
 - 💻  I’m currently working at Abusix
 - 💬  Ask me about anything you want to know
 
