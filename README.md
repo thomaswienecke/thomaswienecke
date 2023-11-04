@@ -10,7 +10,7 @@
 
 #### Fullstack Development
 
-<div style="display: flex; justify-content: space-between;>
+<div style="display: grid; grid-template-rows: auto; grid-auto-flow: column; grid-gap: 5px; height: 70px;">
     <img align="left" alt="Typescript" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
     <img align="left" alt="React" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
     <img align="left" alt="Next.js" width="64px" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png?raw=true" />
@@ -22,7 +22,7 @@
 
 #### DevOps
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: grid; grid-template-rows: auto; grid-auto-flow: column; grid-gap: 5px; height: 70px;">
     <img align="left" alt="Docker" width="64px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true" />
     <img align="left" alt="Gitlab CI/CD" width="64px" src="https://github.com/github/explore/blob/main/topics/gitlab/gitlab.png?raw=true" />
     <img align="left" alt="Github Actions" width="64px" src="https://github.com/github/explore/blob/main/topics/actions/actions.png?raw=true" />
@@ -34,10 +34,10 @@
 
 #### Capture The Flag
 
-<div style="display: flex; justify-content: space-between;">
-    <img align="left" alt="Firefox" width="64px" src="https://github.com/github/explore/blob/main/topics/firefox/firefox.png?raw=true" />
+<div style="display: grid; grid-template-rows: auto; grid-auto-flow: column; grid-gap: 5px; height: 70px; width: 70%;">
     <img align="left" alt="Bash" width="64px" src="https://github.com/github/explore/blob/main/topics/bash/bash.png?raw=true" />
     <img align="left" alt="Python" width="64px" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" />
+    <img align="left" alt="Firefox" width="64px" src="https://github.com/github/explore/blob/main/topics/firefox/firefox.png?raw=true" />
     <img align="left" alt="Postman" width="64px" src="https://voyager.postman.com/logo/postman-logo-orange-stacked.svg" />
     <img align="left" alt="Ghidra" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png" />
 </div>
