@@ -1,18 +1,45 @@
 ### Hi there 👋
-### I'm Thomas, a Software Developer based in Karlsruhe
+### I'm Thomas, a software developer from Karlsruhe
 
 - 🧠  I'm studying computer science at the KIT
-- 💻  I’m currently working at Abusix
-- 💬  Ask me about anything you want to know
+- 💻  I'm working at Abusix as a fullstack software developer (working student)
+- 👨🏼‍💻  In my free time, I participate in Capture the Flag events (CTFs) as part of [KITCTF](https://kitctf.de)
+- 💬  Please don't hesitate to reach out to me.
 
-## Languages and Tools
+### Languages and Tools
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Next.js" width="26px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/540px-PostgreSQL_logo.3colors.svg.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+#### Fullstack Development
+
+<div style="display: flex; justify-content: space-between; width: 525px">
+    <img align="left" alt="Typescript" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+    <img align="left" alt="React" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    <img align="left" alt="Next.js" width="64px" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png?raw=true" />
+    <img align="left" alt="GraphQL" width="64px" src="https://github.com/github/explore/blob/main/topics/graphql/graphql.png?raw=true" />
+    <img align="left" alt="Express.js" width="64px" src="https://github.com/github/explore/blob/main/topics/express/express.png?raw=true" />
+    <img align="left" alt="Nest.js" width="64px" src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png?raw=true" />
+    <img align="left" alt="PostgreSQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+</div>
+
+#### DevOps
+
+<div style="display: flex; justify-content: space-between; width: 525px">
+    <img align="left" alt="Docker" width="64px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true" />
+    <img align="left" alt="Gitlab CI/CD" width="64px" src="https://github.com/github/explore/blob/main/topics/gitlab/gitlab.png?raw=true" />
+    <img align="left" alt="Github Actions" width="64px" src="https://github.com/github/explore/blob/main/topics/actions/actions.png?raw=true" />
+    <img align="left" alt="Terraform" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
+    <img align="left" alt="Ansible" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
+    <img align="left" alt="AWS" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+    <img align="left" alt="Proxmox" width="64px" src="https://pve.proxmox.com/mediawiki/resources/assets/proxmox_logo.png?ffc80" />
+</div>
+
+#### Capture The Flag
+
+<div style="display: flex; justify-content: space-between; width: 375px">
+    <img align="left" alt="Firefox" width="64px" src="https://github.com/github/explore/blob/main/topics/firefox/firefox.png?raw=true" />
+    <img align="left" alt="Bash" width="64px" src="https://github.com/github/explore/blob/main/topics/bash/bash.png?raw=true" />
+    <img align="left" alt="Python" width="64px" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" />
+    <img align="left" alt="Postman" width="64px" src="https://voyager.postman.com/logo/postman-logo-orange-stacked.svg" />
+    <img align="left" alt="Ghidra" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png" />
+</div>
+
+
