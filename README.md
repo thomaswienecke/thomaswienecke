@@ -1,8 +1,10 @@
 ### Hi there 👋
-### I'm Thomas, a software developer from Karlsruhe
+#### I'm Thomas, a software developer from Karlsruhe
 
 - 💻  I'm working at Abusix as a fullstack software developer
-- 👨🏼‍💻  In my free time, I tinker with my homelab and participate in Capture the Flag events (CTFs) as a member of [KITCTF](https://kitctf.de)
+- 👨🏼‍💻  In my free time I
+    - tinker with my homelab
+    - participate in Capture the Flag events (CTFs) as a member of [KITCTF](https://kitctf.de)
 - 💬  Please don't hesitate to reach out to me.
 
 ### Languages and Tools
